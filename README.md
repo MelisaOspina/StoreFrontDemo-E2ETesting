@@ -6,7 +6,7 @@ This repository contains End-to-End (E2E) test cases for the Storefront Demo app
 #### 1. Test Plan: 
 - Key scenarios to be tested and high-level approach to testing 
 #### 2. Automated End-to-End Tests
-- Set up the testing environment.
+- Set up the testing environment. (README)
 - Test Scripts
 #### 3. Defect Identification
 - Bugs and suggested improvements
